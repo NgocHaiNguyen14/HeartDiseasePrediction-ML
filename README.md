@@ -1,6 +1,6 @@
 # Heart Disease Prediction
 
-This project focuses on predicting heart disease based on health information using various machine learning models. The goal is to analyze the dataset, apply dimensional reduction techniques, and evaluate different machine learning models to determine the most effective approach for this prediction task.
+This Machine Learning project focuses on predicting heart disease based on health information using various machine learning models. The goal is to analyze the dataset, apply dimensional reduction techniques, and evaluate different machine learning models to determine the most effective approach for this prediction task.
 
 ## Project Overview
 
